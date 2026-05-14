@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poker-bti/static/css/main.b1d37c54.css",
+    "main.js": "/poker-bti/static/js/main.6709b24f.js",
+    "index.html": "/poker-bti/index.html",
+    "main.b1d37c54.css.map": "/poker-bti/static/css/main.b1d37c54.css.map",
+    "main.6709b24f.js.map": "/poker-bti/static/js/main.6709b24f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d37c54.css",
+    "static/js/main.6709b24f.js"
+  ]
+}

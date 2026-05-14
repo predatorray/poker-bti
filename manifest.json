@@ -1,0 +1,9 @@
+{
+  "short_name": "Poker BTI",
+  "name": "Poker Behavior Type Indicator",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a6b3d",
+  "background_color": "#ffffff"
+}
