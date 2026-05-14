@@ -6,6 +6,8 @@ the table.
 
 👉 **Try it online: <https://predatorray.github.io/poker-bti/>**
 
+![Result page screenshot](https://raw.githubusercontent.com/predatorray/poker-bti/assets/screenshot-result.png)
+
 Built as a React + MUI single-page application, designed to be hosted on
 GitHub Pages.
 
