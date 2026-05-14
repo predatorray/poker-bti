@@ -1,13 +1,29 @@
 {
   "files": {
     "main.css": "/poker-bti/static/css/main.b1d37c54.css",
-    "main.js": "/poker-bti/static/js/main.6709b24f.js",
+    "main.js": "/poker-bti/static/js/main.07aef444.js",
+    "static/media/MSVT.jpg": "/poker-bti/static/media/MSVT.0eba0b72754052e27869.jpg",
+    "static/media/MCVI.jpg": "/poker-bti/static/media/MCVI.85c507fc247257910de7.jpg",
+    "static/media/MCGI.jpg": "/poker-bti/static/media/MCGI.ddc9ee0ecc15a4f34d49.jpg",
+    "static/media/NCVT.jpg": "/poker-bti/static/media/NCVT.c205356789a41a1529e2.jpg",
+    "static/media/MCGT.jpg": "/poker-bti/static/media/MCGT.0188cbe08dc2fa322e25.jpg",
+    "static/media/MCVT.jpg": "/poker-bti/static/media/MCVT.1d6e4ca24b193c1e2ddc.jpg",
+    "static/media/NSGT.jpg": "/poker-bti/static/media/NSGT.fe4dcb6dcc374fd36654.jpg",
+    "static/media/MSGT.jpg": "/poker-bti/static/media/MSGT.ec6919e1221e03022cbb.jpg",
+    "static/media/MSVI.jpg": "/poker-bti/static/media/MSVI.13d5616591413d2ffb8b.jpg",
+    "static/media/NSVT.jpg": "/poker-bti/static/media/NSVT.fe8a6da79938ec1885c4.jpg",
+    "static/media/NCGT.jpg": "/poker-bti/static/media/NCGT.fdf7b9d9f02a7b636d17.jpg",
+    "static/media/NCGI.jpg": "/poker-bti/static/media/NCGI.63338510c4b51ffb3b6b.jpg",
+    "static/media/MSGI.jpg": "/poker-bti/static/media/MSGI.c957910f18149353afbf.jpg",
+    "static/media/NSGI.jpg": "/poker-bti/static/media/NSGI.1475d973bf6d6c9a4702.jpg",
+    "static/media/NCVI.jpg": "/poker-bti/static/media/NCVI.d7d6f6e713dbdc544b6c.jpg",
+    "static/media/NSVI.jpg": "/poker-bti/static/media/NSVI.969d41535651d282d818.jpg",
     "index.html": "/poker-bti/index.html",
     "main.b1d37c54.css.map": "/poker-bti/static/css/main.b1d37c54.css.map",
-    "main.6709b24f.js.map": "/poker-bti/static/js/main.6709b24f.js.map"
+    "main.07aef444.js.map": "/poker-bti/static/js/main.07aef444.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d37c54.css",
-    "static/js/main.6709b24f.js"
+    "static/js/main.07aef444.js"
   ]
 }
